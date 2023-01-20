@@ -1,8 +1,8 @@
 {
   "name": "iapp_ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "https://github.com/iapp-technology/iapp_ai_nodejs",
-  "main": "index.js",
+  "main": "src/modules_ai.js",
   "scripts": {
     "test": "jest"
   },

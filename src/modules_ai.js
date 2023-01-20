@@ -4,8 +4,7 @@ var fs = require('fs');
 var path = require('path');
 const apikey = '';
 
-
-class modules_api {
+class iapp_ai {
     constructor(apikey) {
         this.apikey = apikey;
     }
@@ -893,4 +892,4 @@ class modules_api {
 
 }
 
-module.exports = modules_api;
+module.exports = iapp_ai;
