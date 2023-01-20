@@ -1,12 +1,12 @@
 {
-  "name": "nodejs_iapp_ai",
-  "version": "1.0.0",
-  "description": "",
+  "name": "iapp_ai",
+  "version": "1.0.1",
+  "description": "https://github.com/iapp-technology/iapp_ai_nodejs",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "iApp Technology Co., Ltd.",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.8",
